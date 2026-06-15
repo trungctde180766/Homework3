@@ -58,7 +58,8 @@ Dưới đây là danh sách các hình ảnh bạn cần chụp từ trang AWS 
 ### 🖼️ Minh chứng 3: Cấu hình CloudWatch Alarm
 * **Cách chụp:** Vào **CloudWatch** -> **Alarms** -> Chọn Alarm `RootAccountLoginAlarm`.
 * **Mục tiêu:** Hiển thị đồ thị của alarm, ngưỡng `RootAccountLoginCount >= 1`, trạng thái hiện tại (OK hoặc INSUFFICIENT DATA) và Action liên kết tới SNS topic.
-* *[Chèn ảnh chụp màn hình trang thông tin chi tiết Alarm tại đây]*
+* ![CloudWatch Alarm](evidence/ev5.png)
+
 
 ---
 
