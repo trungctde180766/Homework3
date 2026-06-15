@@ -1,0 +1,17 @@
+# Copy this file to 'terraform.tfvars' and update the values below
+# Đổi tên file này thành 'terraform.tfvars' và cập nhật các giá trị bên dưới
+
+# Region to deploy the resources (e.g., ap-southeast-1, us-east-1)
+aws_region = "ap-southeast-1"
+
+# The email address that will receive the Root Login alarm notifications
+# Điền email của bạn để nhận cảnh báo đăng nhập bằng Root
+alert_email = "your-email@example.com"
+
+# Optional: Phone number in E.164 format to receive SMS alerts (e.g., +84987654321)
+# Leave as empty string "" if you only want email alerts
+# Điền số điện thoại để nhận tin nhắn SMS (ví dụ: +84987654321). Bỏ trống nếu không dùng SMS.
+alert_phone_number = ""
+
+# Optional: Set to true if you want to receive recovery alerts (OK state)
+enable_recovery_notification = true
