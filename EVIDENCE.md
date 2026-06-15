@@ -75,4 +75,5 @@ Dưới đây là danh sách các hình ảnh bạn cần chụp từ trang AWS 
 ### 🖼️ Minh chứng 5: Email cảnh báo đăng nhập thực tế (Triggered Alarm) - *Điểm cộng*
 * **Cách kiểm tra:** Đăng xuất IAM, đăng nhập lại bằng Root User của tài khoản AWS đó. Chờ 3-5 phút.
 * **Mục tiêu:** Chụp lại email cảnh báo có tiêu đề `ALARM: "RootAccountLoginAlarm" in ap-southeast-1` do AWS tự động gửi về.
-* *[Chèn ảnh chụp màn hình Email cảnh báo thực tế tại đây]*
+* ![Email cảnh báo thực tế](evidence/ev6.png)
+
