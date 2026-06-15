@@ -41,7 +41,8 @@ Dưới đây là danh sách các hình ảnh bạn cần chụp từ trang AWS 
 ### 🖼️ Minh chứng 1: CloudTrail Logs Group & Trail hoạt động
 * **Cách chụp:** Vào **AWS CloudTrail** -> **Trails** hoặc **CloudWatch** -> **Log groups** -> Tìm Log Group `/aws/cloudtrail/root-login-trail`.
 * **Mục tiêu:** Cho thấy log group đã được tạo và đang nhận log từ CloudTrail.
-* *[Chèn ảnh chụp màn hình Log Group của bạn tại đây]*
+* ![CloudTrail Log Group](evidence/ev3.png)
+
 
 ---
 
