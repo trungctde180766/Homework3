@@ -63,7 +63,9 @@ Dưới đây là danh sách các hình ảnh bạn cần chụp từ trang AWS 
 ### 🖼️ Minh chứng 4: Email xác nhận (Subscription Confirmed) từ SNS
 * **Cách chụp:** Mở hộp thư Gmail/Email của bạn, tìm thư xác nhận của AWS SNS.
 * **Mục tiêu:** Cho thấy bạn đã đăng ký thành công email và trạng thái SNS Subscription là `Confirmed`.
-* *[Chèn ảnh chụp màn hình Email confirm subscription tại đây]*
+* ![Thư yêu cầu xác thực trong Gmail](evidence/ev1.png)
+* ![Trang xác nhận thành công Subscription confirmed](evidence/ev2.png)
+
 
 ---
 
