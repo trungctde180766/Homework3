@@ -50,7 +50,8 @@ Dưới đây là danh sách các hình ảnh bạn cần chụp từ trang AWS 
 * **Cách chụp:** Vào **CloudWatch** -> **Log groups** -> Chọn `/aws/cloudtrail/root-login-trail` -> Chọn tab **Metric filters**.
 * **Mục tiêu:** Hiển thị Metric Filter mang tên `RootAccountLoginMetricFilter` với Pattern:
   `{ $.userIdentity.type = "Root" && $.eventType != "AwsServiceEvent" }`
-* *[Chèn ảnh chụp màn hình Metric Filter tại đây]*
+* ![Metric Filter](evidence/ev4.png)
+
 
 ---
 
